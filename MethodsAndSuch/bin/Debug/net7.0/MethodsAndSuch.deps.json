@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MethodsAndSuch/1.0.0": {
+        "dependencies": {
+          "MethodsAndSuch.Data": "1.0.0",
+          "MethodsAndSuch.Repository": "1.0.0"
+        },
+        "runtime": {
+          "MethodsAndSuch.dll": {}
+        }
+      },
+      "MethodsAndSuch.Data/1.0.0": {
+        "runtime": {
+          "MethodsAndSuch.Data.dll": {}
+        }
+      },
+      "MethodsAndSuch.Repository/1.0.0": {
+        "dependencies": {
+          "MethodsAndSuch.Data": "1.0.0"
+        },
+        "runtime": {
+          "MethodsAndSuch.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MethodsAndSuch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MethodsAndSuch.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MethodsAndSuch.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\Help\StudentHelp\MethodsAndStuff\MethodsAndSuch.Repository\bin\Debug\net7.0\MethodsAndSuch.Repository.deps.json
+D:\Help\StudentHelp\MethodsAndStuff\MethodsAndSuch.Repository\bin\Debug\net7.0\MethodsAndSuch.Repository.dll
+D:\Help\StudentHelp\MethodsAndStuff\MethodsAndSuch.Repository\bin\Debug\net7.0\MethodsAndSuch.Repository.pdb
+D:\Help\StudentHelp\MethodsAndStuff\MethodsAndSuch.Repository\bin\Debug\net7.0\MethodsAndSuch.Data.dll
+D:\Help\StudentHelp\MethodsAndStuff\MethodsAndSuch.Repository\bin\Debug\net7.0\MethodsAndSuch.Data.pdb
+D:\Help\StudentHelp\MethodsAndStuff\MethodsAndSuch.Repository\obj\Debug\net7.0\MethodsAndSuch.Repository.csproj.AssemblyReference.cache
+D:\Help\StudentHelp\MethodsAndStuff\MethodsAndSuch.Repository\obj\Debug\net7.0\MethodsAndSuch.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Help\StudentHelp\MethodsAndStuff\MethodsAndSuch.Repository\obj\Debug\net7.0\MethodsAndSuch.Repository.AssemblyInfoInputs.cache
+D:\Help\StudentHelp\MethodsAndStuff\MethodsAndSuch.Repository\obj\Debug\net7.0\MethodsAndSuch.Repository.AssemblyInfo.cs
+D:\Help\StudentHelp\MethodsAndStuff\MethodsAndSuch.Repository\obj\Debug\net7.0\MethodsAndSuch.Repository.csproj.CoreCompileInputs.cache
+D:\Help\StudentHelp\MethodsAndStuff\MethodsAndSuch.Repository\obj\Debug\net7.0\MethodsAndSuch.Repository.csproj.CopyComplete
+D:\Help\StudentHelp\MethodsAndStuff\MethodsAndSuch.Repository\obj\Debug\net7.0\MethodsAndSuch.Repository.dll
+D:\Help\StudentHelp\MethodsAndStuff\MethodsAndSuch.Repository\obj\Debug\net7.0\refint\MethodsAndSuch.Repository.dll
+D:\Help\StudentHelp\MethodsAndStuff\MethodsAndSuch.Repository\obj\Debug\net7.0\MethodsAndSuch.Repository.pdb
+D:\Help\StudentHelp\MethodsAndStuff\MethodsAndSuch.Repository\obj\Debug\net7.0\ref\MethodsAndSuch.Repository.dll

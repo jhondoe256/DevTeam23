@@ -1,0 +1,12 @@
+D:\Help\StudentHelp\MethodsAndStuff\MethodsAndSuch.Data\bin\Debug\net7.0\MethodsAndSuch.Data.deps.json
+D:\Help\StudentHelp\MethodsAndStuff\MethodsAndSuch.Data\bin\Debug\net7.0\MethodsAndSuch.Data.dll
+D:\Help\StudentHelp\MethodsAndStuff\MethodsAndSuch.Data\bin\Debug\net7.0\MethodsAndSuch.Data.pdb
+D:\Help\StudentHelp\MethodsAndStuff\MethodsAndSuch.Data\obj\Debug\net7.0\MethodsAndSuch.Data.csproj.AssemblyReference.cache
+D:\Help\StudentHelp\MethodsAndStuff\MethodsAndSuch.Data\obj\Debug\net7.0\MethodsAndSuch.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Help\StudentHelp\MethodsAndStuff\MethodsAndSuch.Data\obj\Debug\net7.0\MethodsAndSuch.Data.AssemblyInfoInputs.cache
+D:\Help\StudentHelp\MethodsAndStuff\MethodsAndSuch.Data\obj\Debug\net7.0\MethodsAndSuch.Data.AssemblyInfo.cs
+D:\Help\StudentHelp\MethodsAndStuff\MethodsAndSuch.Data\obj\Debug\net7.0\MethodsAndSuch.Data.csproj.CoreCompileInputs.cache
+D:\Help\StudentHelp\MethodsAndStuff\MethodsAndSuch.Data\obj\Debug\net7.0\MethodsAndSuch.Data.dll
+D:\Help\StudentHelp\MethodsAndStuff\MethodsAndSuch.Data\obj\Debug\net7.0\refint\MethodsAndSuch.Data.dll
+D:\Help\StudentHelp\MethodsAndStuff\MethodsAndSuch.Data\obj\Debug\net7.0\MethodsAndSuch.Data.pdb
+D:\Help\StudentHelp\MethodsAndStuff\MethodsAndSuch.Data\obj\Debug\net7.0\ref\MethodsAndSuch.Data.dll
